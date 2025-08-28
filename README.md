@@ -1,7 +1,7 @@
 # Yo, I’m Tolib 👋
 
 💻 CS student @ Webster Uni Tash  
-🔥 Founder of ScanDrip (QR-coded fashion platform)  
+<!-- 🔥 Founder of ScanDrip (QR-coded fashion platform) -->
 ⚡ Into full-stack dev, cloud servers, and building drip projects  
 
 ---
