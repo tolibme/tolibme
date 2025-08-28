@@ -22,9 +22,9 @@
 ---
 
 ### 🌍 Connect w/ Me
-- [Portfolio](https://tolib.me) *(soon)*  
+<!--- [Portfolio](https://tolib.me) *(soon)* --> 
 - [LinkedIn](https://www.linkedin.com/in/tolibjon-olimjonov/)  
-
+- [Telegram](https://t.me/olmjnvt)
 ---
 
 > “Code it, drip it, own it.” – tol!b
