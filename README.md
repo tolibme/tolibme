@@ -23,8 +23,7 @@
 
 ### 🌍 Connect w/ Me
 - [Portfolio](https://tolib.me) *(soon)*  
-- [LinkedIn](#)  
-- [Instagram](#)  
+- [LinkedIn](https://www.linkedin.com/in/tolibjon-olimjonov/)  
 
 ---
 
